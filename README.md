@@ -36,7 +36,7 @@ Nesta parte, do projeto, foi trabalhado a construção da página de `Produtos`,
 
 Caso tenha interesse em visualizar o que foi realizado: [Barbearia Alura - produtos](https://nayarawatanuki.github.io/html5-css3-part2__page/)
 </br></br>
-Caso queira ver o projeto completo: [Barbearia Alura - final](https://nayarawatanuki.github.io/html5-css3-part4__page/)
+Caso queira ver o projeto completo: [Barbearia Alura - projeto completo](https://nayarawatanuki.github.io/html5-css3-part4__page/)
 
 </br>
 
