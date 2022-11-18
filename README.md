@@ -25,18 +25,14 @@ O projeto Barbearia Alura, é uma proposta de página web para uma barbearia com
 </br>
 
 ## :hammer: Funcionalidades e Demonstração da Aplicação
-Nesta parte, do projeto, foi trabalhado a construção da página de `Produtos`, realizando as seguintes aulas: 
+Nesta parte, do projeto, foi trabalhado a construção da página de [`Produtos`](https://nayarawatanuki.github.io/html5-css3-part2__page/), realizando as seguintes aulas: 
 - Criando uma nova página
-- Navegação entre páginas (uso da tag de ancora `<a href="">`, no caso o link foi direcionado para a página `Home`)
+- Navegação entre páginas (uso da tag de ancora `<a href="">`, no caso o link foi direcionado para a página [`Home`](https://nayarawatanuki.github.io/html5-css3-part2__page/Home.html))
 - Posicionamento dos elementos
 - A tag section
 - Lidando com bordas
 - Pseudo-classes CSS
 - Finalizando a página de produtos
-
-Caso tenha interesse em visualizar o que foi realizado: [Barbearia Alura - produtos](https://nayarawatanuki.github.io/html5-css3-part2__page/)
-</br></br>
-Caso queira ver o projeto completo: [Barbearia Alura - projeto completo](https://nayarawatanuki.github.io/html5-css3-part4__page/)
 
 </br>
 
@@ -52,13 +48,16 @@ Após baixar o projeto, você pode abrir com o VS Code. Para isso, abra o explor
 </br>
 
 ## :rocket: Abrir e rodar o projeto
-Visual do projeto disponível em: [Barbearia Alura - produtos](https://nayarawatanuki.github.io/html5-css3-part2__page/) 
+Caso tenha interesse em visualizar o que foi realizado: [Barbearia Alura - produtos](https://nayarawatanuki.github.io/html5-css3-part2__page/) 
 
 Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/html5-css3-part2__page/archive/refs/heads/main.zip).
 
 > Após baixar o projeto, abra a pasta do projeto (Caso o projeto seja baixado em zip, é necessário extraí-lo antes de abrir), então clique no:
 > - Aqruivo **``index.html``**
 > - O projeto abrirá em seu navegador padrão (aconselho configurar para o Chrome, se possível)
+
+</br></br>
+Projeto completo: [Barbearia Alura - projeto completo](https://nayarawatanuki.github.io/html5-css3-part4__page/)
 
 </br>
 
